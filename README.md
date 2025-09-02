@@ -1,5 +1,5 @@
 # projeto-faculdade-HealthTech-
-NutriBot: O Assistente Nutricional Inteligente.
+*NutriBot: O Assistente Nutricional Inteligente.*
 Descrição do Projeto:
 
 Este repositório documenta a evolução do meu primeiro projeto de desenvolvimento de software, criado como parte da minha formação em Análise e Desenvolvimento de Sistemas.
